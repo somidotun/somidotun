@@ -1,10 +1,20 @@
-Hi, I'm Ayo-oluwole Oluwasomidotun John
-🚀 Frontend Developer | React & Next.js Specialist
-I'm a passionate frontend developer with expertise in building modern, high-performance web applications using React, TypeScript, and Next.js. I love creating engaging user experiences with clean code and optimal performance.
+About Me
+I'm a passionate and detail-oriented frontend developer with a strong foundation in Industrial and Production Engineering, which gives me a unique perspective on building efficient, scalable web applications. I thrive on transforming complex problems into elegant, user-friendly solutions that deliver exceptional digital experiences.
 
-💻 Tech Stack
-Frontend Development:
+My engineering background has instilled in me a systematic approach to development, focusing on performance optimization, clean architecture, and maintainable code. I'm particularly passionate about creating interfaces that feel intuitive and responsive, paying close attention to the subtle details that elevate user engagement.
 
+Hedera Hackathon 2025: As Team Lead for Nigeria Team 6, I had the incredible opportunity to lead a talented group of developers while serving as the primary Frontend Developer. This experience honed my leadership skills and deepened my expertise in building decentralized applications with cutting-edge web3 technologies.
+
+What Drives Me
+Problem Solving: I enjoy the challenge of breaking down complex requirements into manageable components
+
+Continuous Learning: Always exploring new technologies and best practices in the rapidly evolving frontend landscape
+
+Collaboration: Thrive in team environments where knowledge sharing and collective growth are valued
+
+Impact: Building products that solve real-world problems and enhance user experiences
+
+Tech Stack
 Languages: JavaScript, TypeScript
 
 Frameworks: React, Next.js, Vue.js
@@ -15,62 +25,27 @@ Styling: Tailwind CSS, CSS3
 
 Animation: Framer Motion, GSAP
 
-Routing: React Router
+Tools: GitHub, Netlify, Vercel
 
-Tools & Platforms:
+Featured Projects
+Nike E-commerce Clone: Full-featured Next.js e-commerce platform with product browsing, user authentication, and smooth animations
 
-Version Control: GitHub
+Fly Emirates Clone: Responsive airline booking platform with advanced flight search and booking forms
 
-Deployment: Netlify, Vercel
+SMD Sneakers: My first React project featuring dark/light mode toggle and responsive design
 
-Package Managers: npm, yarn
+Education
+Bachelor's in Industrial and Production Engineering
+Federal University of Technology, Akure | GPA: 3.59 (Second Class Upper)
 
-🛠️ Featured Projects
-🛒 Nike E-commerce Clone
-A fully-featured e-commerce platform inspired by Nike, built with Next.js and TypeScript. Features include product browsing, user authentication, and smooth animations.
-
-Tech: Next.js · TypeScript · Zustand · Framer Motion · Tailwind CSS
-
-✈️ Fly Emirates Clone
-A responsive airline booking platform replica with flight search, booking forms, and dynamic animations.
-
-Tech: React · TypeScript · Framer Motion · Tailwind CSS
-
-👟 SMD Sneakers
-My first React project featuring dark/light mode toggle and responsive design.
-
-Tech: React · JavaScript · Tailwind CSS
-
-📈 What I Bring to the Table
-Performance Optimization: Focus on memory efficiency and fast rendering
-
-Modern Architecture: Experience with component-based development and state management
-
-UI/UX Excellence: Creating engaging, responsive interfaces with smooth animations
-
-Clean Code: Writing maintainable, type-safe code with TypeScript
-
-Rapid Prototyping: Quickly turning ideas into functional prototypes
-
-🎓 Education & Certifications
-Bachelor's Degree in Industrial and Production Engineering
-Federal University of Technology, Akure
-GPA: 3.59 (Second Class Upper)
-
-Certifications:
-
-JavaScript for Beginners - Simplilearn
-
-Introduction to Six Sigma - Simplilearn
-
-🌟 My Development Philosophy
-"I believe in building applications that not only look great but also perform exceptionally. Every line of code should serve a purpose, and every user interaction should feel seamless."
-
-📫 Let's Connect
+Contact
 📧 Email: damilarejohns07@gmail.com
 
-📱 Phone: +2347080226490
+📱 Phone: +2348139352548
 
 💼 LinkedIn: Ayo-oluwole Somidotun
 
 💻 GitHub: somidotun
+
+Open to new opportunities and collaborations!
+
